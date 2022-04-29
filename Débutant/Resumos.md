@@ -182,3 +182,10 @@
 |-|-|-|
 |**Singulier**|**le** parc, **l**'hôtel|**la** tour, **l**'étudiante|
 |**Pluriel**|**les** parcs, **les** hôtels|**les** tours, **les** universités|
+
+|Article|-|
+|-|-|
+|un|um|
+|une|uma|
+|des|alguns|
+|de|alguns|
