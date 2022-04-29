@@ -174,3 +174,6 @@
 |-|:-:|-|-|-|
 |Indéfini|**un, une, des**|Je voudrais **un** dictionnaire|Voici **une** étudiante|J'ais **des** amis à Paris|
 |Défini|**le, la, l'**|Je voudrais **le** dictionnaire de Pierre|Voici **la** soeur de Marie|Je connais **les** amis de Pierre|
+|à + défini|**au, à la, aux**|Je vais **au** théâtre|Elle est **à la** gare|Il écrit **aux** amis|
+|de + défini|**du, de la, des**|Il vient **du** cinema|Voici l'amie **de la** secrétaire|Voici **des** étudiants|
+|Partitifs|**du, de la, de l'**|Je prends **du** sucre|Elle boit **de la** bière||
