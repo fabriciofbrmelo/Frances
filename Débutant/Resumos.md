@@ -62,7 +62,7 @@
 
 |Aller|Avoir||
 |-|-|:-:|
-|Je vais|J'ai|ais/**ai**|
+|Je vais|J'ai|**ais/ai**|
 |Tu vas|Tu as|**as**|
 |Il/Elle/on va|Il/Elle/on a|**a**|
 |Nous allons|Nous avons|**ons**|
