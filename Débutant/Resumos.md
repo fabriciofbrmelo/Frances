@@ -201,3 +201,27 @@
 |Non-Comptable|
 |-|
 |du, de l', de la|
+
+## Vocabulaire
+
+### Les nationalités
+
+|Masculin|Féminin|
+|:-:|:-:|
+|français|française|
+|chinois|chinoise|
+|espagnol|espagnole|
+|allemand|allemande|
+|mexicain|mexicaine|
+|canadien|canadienne|
+|turc|turque|
+|belge|belge|
+
+### L'adresse
+
+|L'adresse||
+|-|-|
+|**à** Paris|ville|
+|**en** France|pays féminin|
+|**au** Portugal|pays masculin|
+|**aux** États-Unis|pluriel|
