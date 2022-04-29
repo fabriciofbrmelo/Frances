@@ -183,9 +183,9 @@
 |**Singulier**|**le** parc, **l**'hôtel|**la** tour, **l**'étudiante|
 |**Pluriel**|**les** parcs, **les** hôtels|**les** tours, **les** universités|
 
-|Article|-|
-|-|-|
-|un|um|
-|une|uma|
-|des|alguns|
-|de|alguns|
+|Article|Portugais|-|Article|Formation|Portugais|
+|-|-|-|-|-|-|
+|un|um|-|au|un + le|ao|
+|une|uma|-|à la|une + la|na|
+|des|alguns|-|à l'||ao, no, na, nas|
+|de|alguns|-|aux|de + les|aos|
