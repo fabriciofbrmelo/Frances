@@ -116,3 +116,13 @@
 |Vous venez|Vous comprenez|**enez**|
 |Ils/Elles viennent|Ils/Elles comprennent|**ennent**|
 |Participe Passé: venu|Participe Passé: compris||
+
+|**Pouvoir**|**Vouloir**||
+|-|-|:-:|
+|Je peux|Je veux|**eux**|
+|Tu peux|Tu veux|**eux**|
+|Il/Elle/on peut|Il/Elle/on peut|**eut**|
+|Nous pouvons|Nous voulons|**ons**|
+|Vous pouvez|Vous voulez|**ez**|
+|Ils/Elles peuvent|Ils/Elles veulent|**ent**|
+|Participe Passé: pu|Participe Passé||
