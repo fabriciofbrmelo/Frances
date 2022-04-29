@@ -38,12 +38,25 @@
 
 |Regarder|Écouter|Arriver||
 |-|-|-|:-:|
-|Je regarde|J'écoute|J'arrive|e|
-|Tu regardes|Tu écoutes|Tu arrives|es|
-|Il/Elle/on regarde|Il/Elle/on écoute|Il/Elle/on arrive|e|
-|Nous regardons|Nous écoutons|Nous arrivons|ons|
-|Vous regardez|vous écoutez|Vous arrivez|ez|
-|Ils/Elles regardent|Ils/Elles écoutent|Ils/Elles arrivent|ent|
-|Participe Passé: regardé|Participe Passé: écouté|Participe Passé: arrivé|é|
+|Je regarde|J'écoute|J'arrive|**e**|
+|Tu regardes|Tu écoutes|Tu arrives|**es**|
+|Il/Elle/on regarde|Il/Elle/on écoute|Il/Elle/on arrive|**e**|
+|Nous regardons|Nous écoutons|Nous arrivons|**ons**|
+|Vous regardez|vous écoutez|Vous arrivez|**ez**|
+|Ils/Elles regardent|Ils/Elles écoutent|Ils/Elles arrivent|**ent**|
+|Participe Passé: regardé|Participe Passé: écouté|Participe Passé: arrivé|**é**|
 
 # 2eme Conjugaison (ir)
+
+|Finir|Définir|Choisir|Établir||
+|-|-|-|-|:-:|
+|Je finis|Je définis|Je choisis|J'établis|**is**|
+|Tu finis|Tu définis|Tu choisis|Tu établis|**is**|
+|Il/Elle/on finit|Il/Elle/on définit|Il/Elle/on choisit|Il/Elle/on établit|**it**|
+|Nous finissons|Nous définissons|Nous choisissons|Nous établissons|**issons**|
+|Vous finissez|Vous définissez|Vous choisissez|Vous établissez|**issez**|
+|Ils/Elles finissent|Ils/Elles définissent|Ils/Elles choisissent|Ils/Elles établissent|**issent**|
+|Participe Passé: fini|Participe Passé: défini|Participe Passé: choisi|Participe Passé: établi|**i**|
+
+# 3eme Conjugaison (re - oir) (Venir - Aller)
+
