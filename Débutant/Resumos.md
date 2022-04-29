@@ -80,14 +80,14 @@
 |Ils/Elles viennent|Ils/Elles comprennent|**ennent**|
 |Participe Passé: venu|Participe Passé: compris||
 
-## 3eme Conjugaison (re - oir) (Se ressemble au 2eme - finir, choisir, établir)
+### 3eme Conjugaison (re - oir) (Se ressemble au 2eme - finir, choisir, établir)
 
-|**Lire**|**Écrire**||
-|-|-|:-:|
-|Je lis|J'écris|**is**|
-|Tu lis|Tu écris|**is**|
-|Il/Elle/on lit|Il/Elle/on écrit|**it**|
-|Nous lisons|Nous écrivons|**ons**|
-|Vous lisez|Vous écrivez|**ez**|
-|Ils/Elles lisent|Ils/Elles écrivent|**ent**|
-|Participe Passé: lu|Participe Passé: écrit||
+|**Lire**|**Écrire**|||
+|-|-|:-:|-|
+|Je lis|J'écris|**is**|Je finis|
+|Tu lis|Tu écris|**is**|Tu finis|
+|Il/Elle/on lit|Il/Elle/on écrit|**it**|Il/Elle/on finit|
+|Nous lisons|Nous écrivons|**ons**|Nous finissons|
+|Vous lisez|Vous écrivez|**ez**|Vous finissez|
+|Ils/Elles lisent|Ils/Elles écrivent|**ent**|Ils/Elles finissent|
+|Participe Passé: lu|Participe Passé: écrit|||
