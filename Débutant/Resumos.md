@@ -60,3 +60,12 @@
 
 # 3eme Conjugaison (re - oir) (Venir - Aller)
 
+|Aller|Avoir||
+|-|-|:-:|
+|Je vais|J'ai|ais/**ai**|
+|Tu vas|Tu as|**as**|
+|Il/Elle/on va|Il/Elle/on a|**a**|
+|Nous allons|Nous avons|**ons**|
+|Vous allez|Vous avez|**ez**|
+|Ils/Elles vont|Ils/Elles ont|**ont**|
+|Participe Passé: allé|Participe Passé: eu||
