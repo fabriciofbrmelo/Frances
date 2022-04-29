@@ -35,3 +35,15 @@
 |Vous appelez|Vous parlez|Vous aimez|Vous habitez|**ez**|
 |Ils/Elles appellent|Ils/Elles parlent|Ils/Elles aiment|Ils/Elles habitent|**ent**|
 |Participe Passé: appelé|Participe Passé: parlé|Participe Passé: aimé|Participe Passé: habité|**é**|
+
+|Regarder|Écouter|Arriver||
+|-|-|-|:-:|
+|Je regarde|J'écoute|J'arrive|e|
+|Tu regardes|Tu écoutes|Tu arrives|es|
+|Il/Elle/on regarde|Il/Elle/on écoute|Il/Elle/on arrive|e|
+|Nous regardons|Nous écoutons|Nous arrivons|ons|
+|Vous regardez|vous écoutez|Vous arrivez|ez|
+|Ils/Elles regardent|Ils/Elles écoutent|Ils/Elles arrivent|ent|
+|Participe Passé: regardé|Participe Passé: écouté|Participe Passé: arrivé|é|
+
+# 2eme Conjugaison (ir)
