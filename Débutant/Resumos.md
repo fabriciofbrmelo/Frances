@@ -127,7 +127,7 @@
 |Ils/Elles peuvent|Ils/Elles veulent|**ent**|
 |Participe Passé: pu|Participe Passé||
 
-# Temps de Verbe
+# Grammaire
 
 ## Futur Proche (Aller + verbe à l'infinitif)
 
@@ -159,7 +159,6 @@
 
 ### Être + verbes de directions et état
 
-
 |Sujet + être|verbes au participe passé|
 |-|-|
 |Je suis|parti(e)|
@@ -168,3 +167,10 @@
 |Nous sommes|parti(e)s|
 |Vous êtes|parti(e)s|
 |Ils/Elles sont|parti(e)s|
+
+## Les articles
+
+|||**Masculin**|**Féminin**|**Pluriel**|
+|-|:-:|-|-|-|
+|Indéfini|**un, une, des**|Je voudrais **un** dictionnaire|Voici **une** étudiante|J'ais **des** amis à Paris|
+|Défini|**le, la, l'**|Je voudrais **le** dictionnaire de Pierre|Voici **la** soeur de Marie|Je connais **les** amis de Pierre|
