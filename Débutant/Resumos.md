@@ -146,3 +146,25 @@
 
 ## Passé Composé (Avoir ou Être)
 
+### Avoir + tout les verbes au participe passé
+
+|Sujet + avoir|verbes au participe passé|
+|-|-|
+|J'ai|parlé|
+|Tu as|parlé|
+|Il/Elle/on a|parlé|
+|Nous avons|parlé|
+|Vous avez|parlé|
+|Ils/Elles ont|parlé|
+
+### Être + verbes de directions et état
+
+
+|Sujet + être|verbes au participe passé|
+|-|-|
+|Je suis|parti(e)|
+|Tu es|parti(e)|
+|Il/Elle/on est|parti(e)|
+|Nous sommes|parti(e)s|
+|Vous êtes|parti(e)s|
+|Ils/Elles sont|parti(e)s|
