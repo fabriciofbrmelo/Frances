@@ -70,15 +70,17 @@
 |Ils/Elles vont|Ils/Elles ont|**ont**|
 |Participe Passé: allé|Participe Passé: eu||
 
-|**Venir**|**Prendre / Comprendre**||
-|-|-|:-:|
-|Je viens|Je comprends|**ens/ends**|
-|Tu viens|Tu comprends|**ens/ends**|
-|Il/Elle/on vient|Il/Elle/on comprend|**ent/end**|
-|Nous venons|Nous comprenons|**enons**|
-|Vous venez|Vous comprenez|**enez**|
-|Ils/Elles viennent|Ils/Elles comprennent|**ennent**|
-|Participe Passé: venu|Participe Passé: compris||
+### 3eme Conjugaison (re - oir) (Se ressemble au 2eme [finir] + 3eme [aller])
+
+|**Connaître**|**Faire**|||
+|-|-|:-:|-|
+|Je connais|Je fais|**ais**|Je vais (aller)|
+|Tu connais|Tu fais|**ais**|Je vais (aller)|
+|Il/Elle/on connaît|Il/Elle/on fait|**ait**|Il/Elle/on lit (lire)|
+|Nous connaissons|Nous faisons|**ons**|Nous finissons|
+|Vous connaissez|Vous faites|**ez/es**|Vous finissez|
+|Ils/Elles connaisent|Ils/Elles font|**ent/ont**|Ils/Elles vont(aller)|
+|Participe Passé: lu|Participe Passé: écrit|||
 
 ### 3eme Conjugaison (re - oir) (Se ressemble au 2eme - finir, choisir, établir)
 
@@ -92,14 +94,13 @@
 |Ils/Elles lisent|Ils/Elles écrivent|**ent**|Ils/Elles finissent|
 |Participe Passé: lu|Participe Passé: écrit|||
 
-### 3eme Conjugaison (re - oir) (Se ressemble au 2eme [finir] + 3eme [aller])
-
-|**Connaître**|**Faire**|||
-|-|-|:-:|-|
-|Je connais|Je fais|**ais**|Je vais (aller)|
-|Tu connais|Tu fais|**ais**|Je vais (aller)|
-|Il/Elle/on connaît|Il/Elle/on fait|**ait**|Il/Elle/on lit (lire)|
-|Nous connaissons|Nous faisons|**ons**|Nous finissons|
-|Vous connaissez|Vous faites|**ez/es**|Vous finissez|
-|Ils/Elles connaisent|Ils/Elles font|**ent/ont**|Ils/Elles vont(aller)|
-|Participe Passé: lu|Participe Passé: écrit|||
+### 3eme Conjugaison (re - oir)
+|**Venir**|**Prendre / Comprendre**||
+|-|-|:-:|
+|Je viens|Je comprends|**ens/ends**|
+|Tu viens|Tu comprends|**ens/ends**|
+|Il/Elle/on vient|Il/Elle/on comprend|**ent/end**|
+|Nous venons|Nous comprenons|**enons**|
+|Vous venez|Vous comprenez|**enez**|
+|Ils/Elles viennent|Ils/Elles comprennent|**ennent**|
+|Participe Passé: venu|Participe Passé: compris||
