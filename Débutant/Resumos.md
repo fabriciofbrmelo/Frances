@@ -189,3 +189,15 @@
 |une|uma|-|à la|une + la|na|
 |des|alguns|-|à l'||ao, no, na, nas|
 |de|alguns|-|aux|de + les|aos|
+
+|Article|Formation|Portugais|
+|-|-|-|
+|du|de + le|do|
+|de|nom propre||
+|de la|de + la|da|
+|de l'|voyelle / h||
+|des|de + les|dos / das|
+
+|Non-Comptable|
+|-|
+|du, de l', de la|
