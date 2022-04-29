@@ -1,7 +1,7 @@
 # Conjugaison des Verbes
 
 |**1er Groupe (er)**|**2eme Groupe (ir)**|**3eme Groupe (re - oir)**|
-|-|-|-|
+|:-:|:-:|:-:|
 |Appeler|Finir|Prendre / Comprendre|
 |Parler|Choisir|Connaître|
 |Aimer|Définir|Lire / Écrire|
@@ -78,32 +78,32 @@
 |Tu connais|Tu fais|**ais**|aller|
 |Il/Elle/on connaît|Il/Elle/on fait|**ait**|lire|
 |Nous connaissons|Nous faisons|**ons**|lire|
-|Vous connaissez|Vous faites|**ez/es**|aller/lire|
-|Ils/Elles connaisent|Ils/Elles font|**ent/ont**|aller)|
+|Vous connaissez|Vous faites|**ez/es**|aller / lire|
+|Ils/Elles connaisent|Ils/Elles font|**ent/ont**|aller|
 |Participe Passé: lu|Participe Passé: écrit|||
 
-### 3eme Conjugaison (re - oir) (Se ressemble au 2eme - finir, choisir, établir)
+### 3eme Conjugaison (re - oir) (Se ressemble au 2eme - finir)
 
 |**Lire**|**Écrire**|||
 |-|-|:-:|-|
-|Je lis|J'écris|**is**|Je finis|
-|Tu lis|Tu écris|**is**|Tu finis|
-|Il/Elle/on lit|Il/Elle/on écrit|**it**|Il/Elle/on finit|
-|Nous lisons|Nous écrivons|**ons**|Nous finissons|
-|Vous lisez|Vous écrivez|**ez**|Vous finissez|
-|Ils/Elles lisent|Ils/Elles écrivent|**ent**|Ils/Elles finissent|
+|Je lis|J'écris|**is**|finir|
+|Tu lis|Tu écris|**is**|finir|
+|Il/Elle/on lit|Il/Elle/on écrit|**it**|finir|
+|Nous lisons|Nous écrivons|**ons**|finir|
+|Vous lisez|Vous écrivez|**ez**|finir|
+|Ils/Elles lisent|Ils/Elles écrivent|**ent**|finir|
 |Participe Passé: lu|Participe Passé: écrit|||
 
 ### 3eme Conjugaison (re - oir) (Se ressemble au Aller et Lire)
 
 |Savoir||Devoir||
 |-|:-:|-|:-:|
-|Je sais|ais|Je dois|is|
-|Tu sais|ais|Tu dois|is|
-|Il/Elle/on sait|it|Il/Elle/on doit|it|
-|Nous savons|ons|Nous devons|ons|
-|Vous savez|ez|Vous devez|ez|
-|Ils/Elles savent|ent|Ils/Elles doivent|ent|
+|Je sais|**ais**|Je dois|**is**|
+|Tu sais|**ais**|Tu dois|**is**|
+|Il/Elle/on sait|**it**|Il/Elle/on doit|**it**|
+|Nous savons|**ons**|Nous devons|**ons**|
+|Vous savez|**ez**|Vous devez|**ez**|
+|Ils/Elles savent|**ent**|Ils/Elles doivent|**ent**|
 |Participe Passé: su||Participe Passé: dû||
 
 ### 3eme Conjugaison (re - oir)
