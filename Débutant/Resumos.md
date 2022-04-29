@@ -74,12 +74,12 @@
 
 |**Connaître**|**Faire**|||
 |-|-|:-:|-|
-|Je connais|Je fais|**ais**|Je vais (aller)|
-|Tu connais|Tu fais|**ais**|Je vais (aller)|
-|Il/Elle/on connaît|Il/Elle/on fait|**ait**|Il/Elle/on lit (lire)|
-|Nous connaissons|Nous faisons|**ons**|Nous finissons|
-|Vous connaissez|Vous faites|**ez/es**|Vous finissez|
-|Ils/Elles connaisent|Ils/Elles font|**ent/ont**|Ils/Elles vont(aller)|
+|Je connais|Je fais|**ais**|aller|
+|Tu connais|Tu fais|**ais**|aller|
+|Il/Elle/on connaît|Il/Elle/on fait|**ait**|lire|
+|Nous connaissons|Nous faisons|**ons**|lire|
+|Vous connaissez|Vous faites|**ez/es**|aller/lire|
+|Ils/Elles connaisent|Ils/Elles font|**ent/ont**|aller)|
 |Participe Passé: lu|Participe Passé: écrit|||
 
 ### 3eme Conjugaison (re - oir) (Se ressemble au 2eme - finir, choisir, établir)
@@ -93,6 +93,18 @@
 |Vous lisez|Vous écrivez|**ez**|Vous finissez|
 |Ils/Elles lisent|Ils/Elles écrivent|**ent**|Ils/Elles finissent|
 |Participe Passé: lu|Participe Passé: écrit|||
+
+### 3eme Conjugaison (re - oir) (Se ressemble au Aller et Lire)
+
+|Savoir||Devoir||
+|-|:-:|-|:-:|
+|Je sais|ais|Je dois|is|
+|Tu sais|ais|Tu dois|is|
+|Il/Elle/on sait|it|Il/Elle/on doit|it|
+|Nous savons|ons|Nous devons|ons|
+|Vous savez|ez|Vous devez|ez|
+|Ils/Elles savent|ent|Ils/Elles doivent|ent|
+|Participe Passé: su||Participe Passé: dû||
 
 ### 3eme Conjugaison (re - oir)
 |**Venir**|**Prendre / Comprendre**||
