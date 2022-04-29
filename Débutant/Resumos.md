@@ -26,3 +26,12 @@
 
 # 1er Conjugaison (er) (Exception: Aller)
 
+|Appeler|Parler||
+|-|-|:-:|
+|J'appelle|Je parle|**e**|
+|Tu appelles|Tu parles|**es**|
+|Il/Elle/on appelle|Il/Elle/on parle|**e**|
+|Nous appelons|Nous parlons|**ons**|
+|Vous appelez|Vous parlez|**ez**|
+|Ils/Elles appellent|Ils/Elles parlent|**ent**|
+|Participe Passé: appelé|Participe Passé: parlé|**é**|
