@@ -26,12 +26,12 @@
 
 # 1er Conjugaison (er) (Exception: Aller)
 
-|Appeler|Parler||
-|-|-|:-:|
-|J'appelle|Je parle|**e**|
-|Tu appelles|Tu parles|**es**|
-|Il/Elle/on appelle|Il/Elle/on parle|**e**|
-|Nous appelons|Nous parlons|**ons**|
-|Vous appelez|Vous parlez|**ez**|
-|Ils/Elles appellent|Ils/Elles parlent|**ent**|
-|Participe Passé: appelé|Participe Passé: parlé|**é**|
+|Appeler|Parler|Aimer|Habiter||
+|-|-|-|-|:-:|
+|J'appelle|Je parle|J'aime|J'habite|**e**|
+|Tu appelles|Tu parles|Tu aimes|Tu habites|**es**|
+|Il/Elle/on appelle|Il/Elle/on parle|Il/Elle/on aime|Il/Elle/on habite|**e**|
+|Nous appelons|Nous parlons|Nous aimons|Nous habitons|**ons**|
+|Vous appelez|Vous parlez|Vous aimez|Vous habitez|**ez**|
+|Ils/Elles appellent|Ils/Elles parlent|Ils/Elles aiment|Ils/Elles habitent|**ent**|
+|Participe Passé: appelé|Participe Passé: parlé|Participe Passé: aimé|Participe Passé: habité|**é**|
