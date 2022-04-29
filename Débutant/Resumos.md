@@ -177,3 +177,8 @@
 |à + défini|**au, à la, aux**|Je vais **au** théâtre|Elle est **à la** gare|Il écrit **aux** amis|
 |de + défini|**du, de la, des**|Il vient **du** cinema|Voici l'amie **de la** secrétaire|Voici **des** étudiants|
 |Partitifs|**du, de la, de l'**|Je prends **du** sucre|Elle boit **de la** bière||
+
+||**Masculin**|**Féminin**|
+|-|-|-|
+|**Singulier**|**le** parc, **l**'hôtel|**la** tour, **l**'étudiante|
+|**Pluriel**|**les** parcs, **les** hôtels|**les** tours, **les** universités|
