@@ -126,3 +126,23 @@
 |Vous pouvez|Vous voulez|**ez**|
 |Ils/Elles peuvent|Ils/Elles veulent|**ent**|
 |Participe Passé: pu|Participe Passé||
+
+# Temps de Verbe
+
+## Futur Proche (Aller + verbe à l'infinitif)
+
+|Sujet|Aller|Verbe à l'infinitif|
+|-|-|-|
+|Je|vais|écouter|
+|Tu|vas|écouter|
+|Il/Elle/on|va|écouter|
+|Nous|allons|écouter|
+|Vous|allez|écouter|
+|Ils/Elles|vont|écouter|
+
+|nous allons|on va|
+|-|-|
+|nous irons|on ira|
+
+## Passé Composé (Avoir ou Être)
+
