@@ -1,6 +1,6 @@
 # Conjugaison des Verbes
 
-|1er Groupe (er)|2eme Groupe (ir)|3eme Groupe (re - oir)|
+|**1er Groupe (er)**|**2eme Groupe (ir)**|**3eme Groupe (re - oir)**|
 |-|-|-|
 |Appeler|Finir|Prendre / Comprendre|
 |Parler|Choisir|Connaître|
@@ -14,7 +14,7 @@
 
 # Être et Avoir
 
-|Être|Avoir|
+|**Être**|**Avoir**|
 |-|-|
 |Je suis|J'ai|
 |Tu es|Tu as|
@@ -26,7 +26,7 @@
 
 # 1er Conjugaison (er) (Exception: Aller)
 
-|Appeler|Parler|Aimer|Habiter||
+|**Appeler**|**Parler**|**Aimer**|**Habiter**||
 |-|-|-|-|:-:|
 |J'appelle|Je parle|J'aime|J'habite|**e**|
 |Tu appelles|Tu parles|Tu aimes|Tu habites|**es**|
@@ -36,7 +36,7 @@
 |Ils/Elles appellent|Ils/Elles parlent|Ils/Elles aiment|Ils/Elles habitent|**ent**|
 |Participe Passé: appelé|Participe Passé: parlé|Participe Passé: aimé|Participe Passé: habité|**é**|
 
-|Regarder|Écouter|Arriver||
+|**Regarder**|**Écouter**|**Arriver**||
 |-|-|-|:-:|
 |Je regarde|J'écoute|J'arrive|**e**|
 |Tu regardes|Tu écoutes|Tu arrives|**es**|
@@ -48,7 +48,7 @@
 
 # 2eme Conjugaison (ir)
 
-|Finir|Définir|Choisir|Établir||
+|**Finir**|**Définir**|**Choisir**|**Établir**||
 |-|-|-|-|:-:|
 |Je finis|Je définis|Je choisis|J'établis|**is**|
 |Tu finis|Tu définis|Tu choisis|Tu établis|**is**|
@@ -60,7 +60,7 @@
 
 # 3eme Conjugaison (re - oir) (Venir - Aller)
 
-|Aller|Avoir||
+|**Aller**|**Avoir**||
 |-|-|:-:|
 |Je vais|J'ai|**ais/ai**|
 |Tu vas|Tu as|**as**|
@@ -69,3 +69,13 @@
 |Vous allez|Vous avez|**ez**|
 |Ils/Elles vont|Ils/Elles ont|**ont**|
 |Participe Passé: allé|Participe Passé: eu||
+
+|**Venir**|**Prendre / Comprendre**||
+|-|-|:-:|
+|Je viens|Je comprends|**ens/ends**|
+|Tu viens|Tu comprends|**ens/ends**|
+|Il/Elle/on vient|Il/Elle/on comprend|**ent/end**|
+|Nous venons|Nous comprenons|**enons**|
+|Vous venez|Vous comprenez|**enez**|
+|Ils/Elles viennent|Ils/Elles comprennent|**ennent**|
+|Participe Passé: venu|Participe Passé: compris||
